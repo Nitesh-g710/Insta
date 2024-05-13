@@ -1,0 +1,104 @@
+body{
+    font-family: "Briem Hand", cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+form{
+    /* background-color: aqua; */
+    width: 30%;
+    height: 550px;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    border: 1px solid rgb(145, 142, 142);
+    border-radius: 5px;
+    margin: 20px;
+    padding-top:80px ;
+}
+img,input,a,button{
+    display: block;
+}
+img{
+    width: 258px;
+    height: 90px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+input{
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid gray;
+    
+}
+button{
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: rgb(48, 48, 247);
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+}
+hr{
+    margin-top: 40px;
+}
+a{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+}
+h4{
+    position: absolute;
+    top: -112%;
+    left: 45%;
+    background-color: white;
+    padding: 0px 10px;
+}
+#or-container{
+position: relative;
+height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
